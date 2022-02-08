@@ -1,0 +1,3 @@
+/home/wzs/codes/Assignment7/build/CMakeFiles/rebuild_cache.dir
+/home/wzs/codes/Assignment7/build/CMakeFiles/edit_cache.dir
+/home/wzs/codes/Assignment7/build/CMakeFiles/RayTracing.dir
