@@ -11,6 +11,8 @@ Games101作业6-7，主要实现BVH和cpu光线追踪。
 # 256采样康奈尔盒渲染图
 ![spp256](https://github.com/Auggst/101Assignment7/blob/main/output/spp256.ppm)
 
+github 不支持ppm文件格式，在output文件夹内。
+
 # 环境
 wsl2子系统或linux系统
 ```
